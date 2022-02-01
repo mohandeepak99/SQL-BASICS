@@ -1,0 +1,11 @@
+Degree-number of attributes(columns) in a table.
+Cardinality-number of tuples(rows) in a table.
+Candidate key-  1.is a set of attributes that uniquely identify a table
+		2.It is a super key with no repeated attributes.
+		3.The primary key should be selected from candidate key.
+		4.every table must have at least a single candidate key.
+		5.A table can have multiple candidate keys.
+Primary key-  is a column or group of columns in a table that uniquely identify every row in that table.
+		1.A table can have only ONE primary key.
+
+Foreign key- is a field(or collection of fields) in one table,that refers to the primary key.
