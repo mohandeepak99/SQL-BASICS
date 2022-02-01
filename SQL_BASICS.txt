@@ -1,3 +1,4 @@
+Definitions 
 Degree-number of attributes(columns) in a table.
 Cardinality-number of tuples(rows) in a table.
 Candidate key-  1.is a set of attributes that uniquely identify a table
