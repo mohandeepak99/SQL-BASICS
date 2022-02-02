@@ -10,3 +10,6 @@ Primary key-  is a column or group of columns in a table that uniquely identify 
 		1.A table can have only ONE primary key.
 
 Foreign key- is a field(or collection of fields) in one table,that refers to the primary key.
+
+TO_CHAR(): the oracle TO_CHAR() function converts a DATE or INTERVAL value to a string in a specified date format.
+		1.It is very useful for formatting the internal date data returned by a query in a specific date format.
