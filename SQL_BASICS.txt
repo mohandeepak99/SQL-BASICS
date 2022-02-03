@@ -13,3 +13,12 @@ Foreign key- is a field(or collection of fields) in one table,that refers to the
 
 TO_CHAR(): the oracle TO_CHAR() function converts a DATE or INTERVAL value to a string in a specified date format.
 		1.It is very useful for formatting the internal date data returned by a query in a specific date format.
+
+SUM and AVG works only on numeric data types.
+
+***MIN and MAX and COUNT can be used on both number and character typed columns***
+***In SQL if THE query can't fetch any output then the output printed will be NULL***.
+one single INSERT statement can be used to add any number of rows in a table.
+
+***NVL-Null Value Limit.
+	1.eg:NVL(end_date,'02-feb-2022') -- it replaces all the records which have null value or nothing in a column with the given date.
